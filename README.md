@@ -1,9 +1,9 @@
 # Pratikum Pengantar pemograman
 <p></p>
 
-<div> Nama : Stepani </div>
-<div> NIM  : 231031047</div>
-<div> Prodi: Sistem Informasi</div>
+<h1> Nama : Stepani </h1>
+<h1> NIM  : 231031047</h1>
+<h1> Prodi: Sistem Informasi</h1>
 
 *Pratikum 2: Pengenalan Variabel `Pratikum b2.py`
 *Pratikum 3: Pengenalan Variabel `Pratikum b2.py`
