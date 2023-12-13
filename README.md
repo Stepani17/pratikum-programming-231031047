@@ -6,5 +6,5 @@
 <h1> Prodi: Sistem Informasi</h1>
 
 *Pratikum 2: Pengenalan Variabel `Pratikum b2.py`
-*Pratikum 3: Pengenalan Variabel `Pratikum b2.py`
+*Pratikum 3: Pengenalan VAriabel ` Pratikum b2.py`
 
