@@ -3,6 +3,6 @@
 
 <h1> Nama : Stepani </h1>
 <h1> NIM  : 231031047</h1>
-<h1> Prodi:</h1>
+<h1> Prodi: Sistem Informasi</h1>
 
-Pratikum 2: Pengenalan Variabel `Pratikum b2.py`
+*Pratikum 2: Pengenalan Variabel `Pratikum b2.py`
